@@ -2,7 +2,7 @@
 Companion to **“Multiomics gene regulatory network analysis reveals the distinct roles of chromatin architectural factors in gene expression regulation”**
 
 This repository provides code for:
-- Gene regulatory network (GRN) construction  
+- Gene regulatory networks (GRNs) construction  
 - Network centrality analysis  
 - Network modularity analysis  
 
